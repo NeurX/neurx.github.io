@@ -77,7 +77,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f2f5f3;
+		background: #fff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2518,8 +2518,8 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #273d8f;
-		border-bottom: solid 5px #c1cac5;
+		/* border-top: solid 5px #273d8f;
+		border-bottom: solid 5px #c1cac5; */
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
